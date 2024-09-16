@@ -1,2 +1,3 @@
-# locatarr
-Repo no longer maintained
+# Locatarr
+
+Please see https://locatarr.github.io/Locatarr/. 
